@@ -22,21 +22,21 @@
 
 ### 🎟️ Plataforma de venta de entradas
 - Backend: ASP.NET Core, Clean Architecture, Microservicios  
-- Frontend: React + TypeScript + Zustand + TanStack Query  
+- Frontend: React + TypeScript
 - Logro: Visualización dinámica de espacios y gestión de tickets en tiempo real  
 - 🔗 [Repositorio en GitHub](https://github.com/PS-Grupo-3)
 
 ---
 
 ### 🛒 Sistema de gestión para supermercado
-- ASP.NET Core + EF Core + SQL Server  
+- ASP.NET Core
 - CRUD de productos, stock y ventas  
 - 🔗 [Repositorio en GitHub](https://github.com/Tomiroma/MiniMercado)
 
 ---
 
 ### ☕ Sitio web para cafetería
-- React + JavaScript + HTML + CSS  
+- JavaScript + HTML + CSS  
 - Diseño responsive y modular  
 - 🔗 [Repositorio en GitHub](https://github.com/Tomiroma/Proyecto-Ing-de-soft-I-Starbucks)
 
@@ -50,7 +50,7 @@
 
 ## 📫 Contacto
 - 📧 Email: **romagnolitomas2003@gmail.com**  
-- 🔗 LinkedIn: [linkedin.com/in/tomasromagnoli](https://linkedin.com/in/tomasromagnoli)  
+- 🔗 LinkedIn: https://www.linkedin.com/in/tomas-romagnoli-622823232/
 - 💻 GitHub: [github.com/Tomiroma](https://github.com/Tomiroma)  
 
 ---
