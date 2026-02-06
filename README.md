@@ -44,7 +44,7 @@
 
 ## 🌍 Idiomas
 - Español: Nativo  
-- Inglés: B2 (Cambridge First Certificate)  
+- Inglés: Intermedio B2 (Cambridge First Certificate)  
 
 ---
 
